@@ -1,1 +1,1 @@
-# Pinterest-Clone-app
+# PinterestClone
